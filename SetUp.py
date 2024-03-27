@@ -2,8 +2,8 @@ class SetUp:
     def __init__(self):
         self.SqlOdbcDriver  = "ODBC Driver 17 for SQL Server"
         self.DB_Server_NAME = "BPLDEVDB01"
-        self.DBName_CI      = "Kajalk_CPP_CI"
-        self.SMTP_SERVER    = "corecard-com.mail.protection.outlook.com"
+        self.DBName_CI      = "PRIMARY DATABASE"
+        self.SMTP_SERVER    = "EMAIL SERVER NAME"
         self.SMTP_PORT      = 25
         self.EmailFrom      = ""
         self.Temp_EmailTo   = ""
