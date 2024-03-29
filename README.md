@@ -6,7 +6,6 @@
 This project comprises a suite of Python scripts designed to parse and process American Express (AMEX) clearing files. It automates the ingestion, validation, and processing of financial transaction data, facilitating streamlined reconciliation and settlement processes.
 
 ## Features
-
 - **File Parsing**: Extracts and processes transaction data from AMEX clearing files.
 - **Database Interaction**: Inserts processed data into SQL databases for further analysis and reporting.
 - **Error Handling**: Implements robust error logging and handling mechanisms to ensure data integrity and facilitate troubleshooting.
