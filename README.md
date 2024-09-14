@@ -1,9 +1,10 @@
 
-# AMEX Clearing File Parser
+# EBCDIC FILE PARSING
+
 
 ## Overview
 
-This project comprises a suite of Python scripts designed to parse and process American Express (AMEX) clearing files. It automates the ingestion, validation, and processing of financial transaction data, facilitating streamlined reconciliation and settlement processes.
+This project comprises a suite of Python scripts designed to parse and process EBCDIC FILE . It automates the ingestion, validation, and processing of financial transaction data, facilitating streamlined reconciliation and settlement processes.
 
 ## Features
 - **File Parsing**: Extracts and processes transaction data from AMEX clearing files.
